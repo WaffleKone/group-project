@@ -25,6 +25,11 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.jaxon-style {
+    color:purple;
+    background-color: rgb(64, 216, 221);
+    padding: 3px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
